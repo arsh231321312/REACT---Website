@@ -1,0 +1,42 @@
+ [
+    {
+        "title": "Marmot Heaven",
+        "description": "Click to read more",
+        
+        "buttons": [
+            {
+            "url": "https://www.educative.io/answers/how-to-pass-json-values-into-react-components",
+            "label": "first button"
+            },
+            {
+                "label": "2 New Button"
+            },
+            {
+                "label": "2 New Button"
+            }
+        ]
+        
+        
+    },
+    {
+        "title": "React Props Example",
+        "description": "Passing JSON values as props in React",
+        "url": "https://www.educative.io/answers/how-to-pass-json-values-into-react-components",
+        "buttons": [
+            {
+            "label": "1 New Button"
+            },
+            {
+                "label": "2 New Button"
+            },
+            {
+                "label": "2 New Button"
+            },
+            {
+                "label": "3 New Button"
+            }
+        ]
+        
+        
+    }
+]
